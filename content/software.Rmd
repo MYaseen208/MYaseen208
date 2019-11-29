@@ -111,6 +111,40 @@ This page provides links to R & LaTeX packages I have (co)authored. The most rec
 
 &nbsp;
 
+
+## PakPMICS2018
+> [**PakPMICS2018**](https://cran.r-project.org/web/packages/PakPMICS2018/index.html) :  *Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan* [[Website](https://myaseen208.github.io/PakPMICS2018)]
+
+&nbsp;
+
+## PakPMICS2018bh
+> [**PakPMICS2018bh**](https://cran.r-project.org/web/packages/PakPMICS2018bh/index.html) :  *Multiple Indicator Cluster Survey (MICS) 2017-18 Birth History of Children Questionnaire Data for Punjab, Pakistan* [[Website](https://myaseen208.github.io/PakPMICS2018bh)]
+
+&nbsp;
+
+
+## PakPMICS2018fs
+> [**PakPMICS2018fs**](https://cran.r-project.org/web/packages/PakPMICS2018fs/index.html) :  *Multiple Indicator Cluster Survey (MICS) 2017-18 Children Age 5-17 Questionnaire Data for Punjab, Pakistan* [[Website](https://myaseen208.github.io/PakPMICS2018fs)]
+
+&nbsp;
+
+## PakPMICS2018hh
+> [**PakPMICS2018hh**](https://cran.r-project.org/web/packages/PakPMICS2018hh/index.html) :  *Multiple Indicator Cluster Survey (MICS) 2017-18 Household Questionnaire Data for Punjab, Pakistan* [[Website](https://myaseen208.github.io/PakPMICS2018hh)]
+
+&nbsp;
+
+## PakPMICS2018mm
+> [**PakPMICS2018mm**](https://cran.r-project.org/web/packages/PakPMICS2018mm/index.html) :  *Multiple Indicator Cluster Survey (MICS) 2017-18 Maternal Mortality Questionnaire Data for Punjab, Pakistan* [[Website](https://myaseen208.github.io/PakPMICS2018mm)]
+
+&nbsp;
+
+
+## PakPMICS2018mn
+> [**PakPMICS2018mn**](https://cran.r-project.org/web/packages/PakPMICS2018mn/index.html) :  *Multiple Indicator Cluster Survey (MICS) 2017-18 Men Questionnaire Data for Punjab, Pakistan* [[Website](https://myaseen208.github.io/PakPMICS2018mn)]
+
+&nbsp;
+
+
 ## ppcSpatial
 > [**ppcSpatial**](https://cran.r-project.org/web/packages/ppcSpatial/index.html) :  *Spatial Analysis of Pakistan Population Census* [[Website](https://myaseen208.github.io/ppcSpatial)]
 

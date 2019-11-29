@@ -5,10 +5,19 @@
     <link>/</link>
     <description>Recent content on Muhammad Yaseen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Training Course on Capacity Building of NARS Scientists in Advance Analytical Techniques</title>
+      <link>/myaseen208/2019-r-narc/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/myaseen208/2019-r-narc/</guid>
+      <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example  Factorial Experiment under RCBD Stability Analysis Individual Analysis of Variance for each Location Combined Analysis of Variance Additive Main Effects and Multiplicative Interaction (AMMI) Analysis Additive Main Effects and Multiplicative Interaction (AMMI) Biplot Analysis Genotype plus Genotypes by Environment (GGE) Interaction Biplot Analysis    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
+    </item>
     
     <item>
       <title>How to wrtie a Research Paper and Hands on Training of SPSS - A Statistical Tool</title>
@@ -584,7 +593,7 @@ Administrative responsibilities  Head of Department, Department of Mathematics &
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/software/</guid>
-      <description>R Packages/Software agriTutorial bayesammi baystability DiallelAnalysisR dmai eda4treeR gvcR PakPC2017 PakPMICS2014Ch PakPMICS2014HH PakPMICS2014HL PakPMICS2014Wm ppcSpatial PSLM2015 qccrs rgsp stability StroupGLMM SupMZ VetResearchLMM  LaTeX Packages/Software UAFSynopsis UAFThesis PakJAS     This page provides links to R &amp;amp; LaTeX packages I have (co)authored. The most recent versions of most packages are on github. Most R packages are also on CRAN.
+      <description>R Packages/Software agriTutorial bayesammi baystability DiallelAnalysisR dmai eda4treeR gvcR PakPC2017 PakPMICS2014Ch PakPMICS2014HH PakPMICS2014HL PakPMICS2014Wm PakPMICS2018 PakPMICS2018bh PakPMICS2018fs PakPMICS2018hh PakPMICS2018mm PakPMICS2018mn ppcSpatial PSLM2015 qccrs rgsp stability StroupGLMM SupMZ VetResearchLMM  LaTeX Packages/Software UAFSynopsis UAFThesis PakJAS     This page provides links to R &amp;amp; LaTeX packages I have (co)authored. The most recent versions of most packages are on github. Most R packages are also on CRAN.
  R Packages/Software agriTutorial  agriTutorial : Tutorial Analysis of Some Agricultural Experiments [Website]</description>
     </item>
     
