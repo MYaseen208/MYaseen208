@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ppcSpatial on Muhammad Yaseen</title>
@@ -17,11 +17,9 @@
       
       <guid>/myaseen208/2018-05-13_ppcspatial/</guid>
       <description>The latest version of the ppcSpatial package for R is now on CRAN. It performs spatial analysis for exploration of Pakistan Population Census 2017 (http://www.pbscensus.gov.pk/). It uses data from R package PakPC2017.
-&amp;nbsp;
-The Spatial map is 
+ The Spatial map is
 and full view is here.
-&amp;nbsp;
-A video showing some functionality of the package is</description>
+ A video showing some functionality of the package is</description>
     </item>
     
     <item>
