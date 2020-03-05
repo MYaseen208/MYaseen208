@@ -1,9 +1,9 @@
 ---
 title: "Design & Analysis of Field Experiments using R"
 author: "Muhammad Yaseen"
-date: 2020-02-06
+date: 2020-03-06
 comments: false
-slug: 2020-02-06-UAF
+slug: 2020-03-06-UAF
 categories:
 - R
 - Statistics

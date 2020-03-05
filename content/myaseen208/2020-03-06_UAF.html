@@ -1,107 +1,19 @@
-<!doctype html>
-<html class="no-js" lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <title>Design &amp; Analysis of Field Experiments using R | Muhammad Yaseen</title>
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Merriweather|Fira+Mono" rel="stylesheet">
-    <link rel="stylesheet" href="/css/foundation.min.css">
-    <link rel="stylesheet" href="/css/highlight.min.css">
-    <link rel="stylesheet" href="/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/css/academicons.min.css">
-    <link rel="stylesheet" href="/css/finite.css">
-    <link rel="stylesheet" href="/css/kube.css">
-    <link rel="stylesheet" href="/css/myaseen208.css">
-  </head>
-  <body>
-    <header>
-      <nav class="nav-bar">
-	
-	  <div class="title-bar" data-responsive-toggle="site-menu" data-hide-for="medium">
-	    <button class="site-hamburger" type="button" data-toggle>
-	      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
-	    </button>
-	    <div class="title-bar-title site-title">
-	      <a href="/"  style="color: #b3cde0">Muhammad Yaseen</a>
-	    </div>
-	    <div class="title-bar-right pull-right">
-	      
+---
+title: "Design & Analysis of Field Experiments using R"
+author: "Muhammad Yaseen"
+date: 2020-03-06
+comments: false
+slug: 2020-03-06-UAF
+categories:
+- R
+- Statistics
+- Research
+mathjax: true
+output:
+  blogdown::html_page:
+    toc: true
+---
 
-
-	    </div>
-	  </div>
-
-	  
-	    <div class="top-bar" id="site-menu" >
-	      <div class="top-bar-title show-for-medium site-title">
-		<a href="/"  style="color: #b3cde0;">Muhammad Yaseen</a>
-	      </div>
-	      <div class="top-bar-left">
-		<ul class="menu vertical medium-horizontal">
-		  
-		  
-		  <li><a href="/myaseen208/">myaseen208 blog</a></li>
-		  
-		  <li><a href="/publications/">Publications</a></li>
-		  
-		  <li><a href="/software/">Software</a></li>
-		  
-		  <li><a href="/seminars/">Seminars</a></li>
-		  
-		  <li><a href="/teaching/">Teaching</a></li>
-		  
-		  <li><a href="/about/">About</a></li>
-		  
-		</ul>
-	      </div>
-	      <div class="top-bar-right show-for-medium">
-		
-
-
-	      </div>
-	    </div>
-	  
-	</nav>
-    </header>
-    <main>
-      
-
-<div class="wrapper">
-<div class="units-row" style='margin-bottom: 0px;'>
-<div class="unit-20">&nbsp;</div>
-<div class="unit-60"><h1>Design &amp; Analysis of Field Experiments using R</h1></div>
-</div>
-<div class="units-row">
-  <div class="unit-20 dateblock" style='text-align: right;'><h4 style='padding: .8ex 0px .8ex 0px;'><a href="/myaseen208">myaseen208</a></h4>
-      <div class="post-metadata">
-  <span class="post-date">
-    <time datetime="2020-02-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">6 February 2020</time>
-  </span>
-  
-  
-  
-  <span class="post-tags">
-    <p><i class="fa fa-tags"></i>
-    
-    <a class="post-tag" href="/categories/r">R</a>,
-     
-    
-    
-    <a class="post-tag" href="/categories/statistics">Statistics</a>, 
-    
-    
-    <a class="post-tag" href="/categories/research">Research</a>
-    
-  </span>
-  
-  
-</div>
-
-    </div>
-<div class="unit-60">
-
-  
 
 <div id="TOC">
 <ul>
@@ -259,7 +171,7 @@ p1 &lt;-
   labs(x = &quot;Fertilizer&quot;, y = &quot;Production&quot;) +
   theme_bw()
 print(p1)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/reg.p1-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/reg.p1-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm1 &lt;- lm(formula = Production ~ Fertilizer, data = df1)
 summary(fm1)</code></pre>
 <pre><code>
@@ -356,7 +268,7 @@ p2 &lt;-
   labs(x = &quot;Fertilizer&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p2)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/reg.p2-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/reg.p2-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm2 &lt;- lm(formula = Yield ~ Fert, data = df2)
 summary(fm2)</code></pre>
 <pre><code>
@@ -467,7 +379,7 @@ p3 &lt;-
   labs(x = &quot;Weekly income, $&quot;, y = &quot;Weekly consumption expenditures, $&quot;) +
   theme_bw()
 print(p3)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/reg.p3-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/reg.p3-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm3 &lt;- lm(formula = Expenditures ~ Income, data = df3)
 summary(fm3)</code></pre>
 <pre><code>
@@ -687,7 +599,7 @@ p5 &lt;-
   labs(x = &quot;Nitrogen&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p5)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/reg.p5-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/reg.p5-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm5 &lt;- lm(formula = Yield ~ Nitrogen + I(Nitrogen^2), data = df5)
 # fm5 &lt;- lm(formula = Yield ~ poly(x = Nitrogen, degree = 2, raw = TRUE), data = df5)
 summary(fm5)</code></pre>
@@ -795,7 +707,7 @@ p6 &lt;-
   labs(x = &quot;Variety&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p6)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/anova.p6-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/anova.p6-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm6 &lt;- lm(formula = Yield ~ Variety, data = df6)
 summary(fm6)</code></pre>
 <pre><code>
@@ -883,7 +795,7 @@ p7 &lt;-
   labs(x = &quot;Variety&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p7)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/anova.p7-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/anova.p7-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm7 &lt;- lm(formula = Yield ~ Variety, data = df7)
 summary(fm7)</code></pre>
 <pre><code>
@@ -1069,7 +981,7 @@ p8 &lt;-
   labs(x = &quot;Fert&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p8)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/ancova.p8-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/ancova.p8-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <p> </p>
 </div>
 <div id="different-intercepts-and-different-slopes" class="section level3">
@@ -1116,7 +1028,7 @@ p9 &lt;-
   labs(x = &quot;Fert&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p9)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/ancova.p9-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/ancova.p9-1.svg" width="672" style="display: block; margin: auto;" /></p>
 </div>
 </div>
 <div id="correlation-analysis" class="section level2">
@@ -1223,7 +1135,7 @@ p10 &lt;-
   labs(x = &quot;Sparrow Wing Length (cm)&quot;, y = &quot;Sparrow Tail Length (cm)&quot;) +
   theme_bw()
 print(p10)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/corr.p10-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/corr.p10-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>cor(df10$WingLength, df10$TailLength)</code></pre>
 <pre><code>[1] 0.8703546</code></pre>
 <pre class="r"><code>cor.test(df10$WingLength, df10$TailLength)</code></pre>
@@ -1515,7 +1427,7 @@ p13 &lt;-
   labs(x = &quot;Treatment&quot;, y = &quot;Scab Index&quot;) +
   theme_bw()
 print(p13)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/crd.p13-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/crd.p13-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm13 &lt;- lm(formula = ScabIndex ~ Trt, data = df13)
 summary(fm13)</code></pre>
 <pre><code>
@@ -1615,7 +1527,7 @@ p14 &lt;-
   labs(x = &quot;Treatment&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p14)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/rcbd.p14-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/rcbd.p14-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm14 &lt;- lm(formula = Yield ~ SoilType + Trt, data = df14)
 summary(fm14)</code></pre>
 <pre><code>
@@ -1721,7 +1633,7 @@ p15 &lt;-
   labs(x = &quot;Treatment&quot;, y = &quot;Yield&quot;) +
   theme_bw()
 print(p15)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/latin.p15-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/latin.p15-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>fm15 &lt;- lm(formula = Yield ~ Row + Col + Trt, data = df15)
 summary(fm15)</code></pre>
 <pre><code>
@@ -1828,9 +1740,9 @@ Residuals 15   8947     596
 Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1</code></pre>
 <pre class="r"><code>library(emmeans)
 emmip(fm1, Vart ~ Manu)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/unnamed-chunk-3-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/unnamed-chunk-3-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>emmip(fm1, Manu ~ Vart)</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/unnamed-chunk-4-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/unnamed-chunk-4-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre class="r"><code>emmeans(fm1, ~ Vart)</code></pre>
 <pre><code> Vart    emmean   SE df lower.CL upper.CL
  S23        248 8.63 15      229      266
@@ -2145,10 +2057,10 @@ $pc.anova
           , .env  = Env
       )</code></pre>
 <pre><code>$aami.biplot</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/unnamed-chunk-17-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/unnamed-chunk-17-1.svg" width="672" style="display: block; margin: auto;" /></p>
 <pre><code>
 $MeanPC1Plot</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/unnamed-chunk-17-2.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/unnamed-chunk-17-2.svg" width="672" style="display: block; margin: auto;" /></p>
 </div>
 <div id="genotype-plus-genotypes-by-environment-gge-interaction-biplot-analysis" class="section level3">
 <h3>Genotype plus Genotypes by Environment (GGE) Interaction Biplot Analysis</h3>
@@ -2160,197 +2072,6 @@ $MeanPC1Plot</code></pre>
           , .env  = Env
       )</code></pre>
 <pre><code>$gge.biplot</code></pre>
-<p><img src="/myaseen208/2020-02-06_UAF_files/figure-html/unnamed-chunk-18-1.svg" width="672" style="display: block; margin: auto;" /></p>
+<p><img src="/myaseen208/2020-03-06_UAF_files/figure-html/unnamed-chunk-18-1.svg" width="672" style="display: block; margin: auto;" /></p>
 </div>
 </div>
-
-
-      <meta itemprop="wordCount" content="6472">
-      <meta itemprop="datePublished" content="2020-02-06">
-      <meta itemprop="url" content="/myaseen208/2020-02-06-uaf/">
-
-<div class='sans' style="background: #dddddd; padding: 2em;">
-<div style="padding-bottom: 1em" >
-<div class="share-box">
-  <ul class="share">
-    <li>
-      <a class="facebook" href="http://www.facebook.com/sharer.php?u=%2fmyaseen208%2f2020-02-06-uaf%2f" target="_blank">
-        <i class="fa fa-facebook"></i>
-      </a>
-    </li>
-    <li>
-      <a class="twitter" href="https://twitter.com/intent/tweet?text=Design%20%26%20Analysis%20of%20Field%20Experiments%20using%20R. %2fmyaseen208%2f2020-02-06-uaf%2f from @myaseen208" target="_blank">
-        <i class="fa fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fmyaseen208%2f2020-02-06-uaf%2f&amp;title=Design%20%26%20Analysis%20of%20Field%20Experiments%20using%20R" target="_blank">
-        <i class="fa fa-linkedin"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo" href="http://service.weibo.com/share/share.php?url=%2fmyaseen208%2f2020-02-06-uaf%2f&amp;title=Design%20%26%20Analysis%20of%20Field%20Experiments%20using%20R" target="_blank">
-        <i class="fa fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email" href="mailto:?subject=Design%20%26%20Analysis%20of%20Field%20Experiments%20using%20R&amp;body=%2fmyaseen208%2f2020-02-06-uaf%2f">
-        <i class="fa fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-</div>
-
-    <ul class="pagination" role="navigation" aria-label="Pagination">
-      
-      <li class="arrow" aria-disabled="true"><a href="/myaseen208/2019-r-narc/">&laquo; <em>Previous<span class="show-for-sr"> page</span></em>: Training Course on Capacity Building of NARS Scientists in Advance Analytical Techniques</a></li>
-      
-      
-    </ul>
-    <a href="/myaseen208/">All myaseen208 posts by date</a>
-</div>
-
-<span style='font-family: Carlito'>
- <div id="disqus_thread"></div>
-<script type="text/javascript">
-
-(function() {
-    
-    
-    if (window.location.hostname == "localhost")
-              return;
-
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = '<https-github-com-myaseen208-myaseen208>';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-<div id="disqus_thread"></div>
-<script>
-
-
-
-
-
-
-(function() { 
-var d = document, s = d.createElement('script');
-s.src = 'https://myaseen208.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
-
-</span>
-
-  </div>
-  </div></div>
-
-    </main>
-    <footer class="whatisthis">
-  <hr class='separator'/>
-  <span style="font-family: Carlito, sans; font-size: 0.9em; line-height: 1.05em;">
-  <div class="row">
-    <div class="column small-12 medium-4">
-      <figure class='image-left'>
-      <a href="/" style="border-bottom: none;">
-      	<img src="/img/myaseen208.jpg" alt="Portrait of the author" class='avatar' style="max-width: 50%;">
-      </a>
-  </figure>
-  <p>
-Muhammad Yaseen is Assistant Professor of Statistics at <a href=http://www.uaf.edu.pk/>University of Agriculture Faisalabad</a> , Faisalabad 38000, Pakistan.  </p>
-    </div>
-    <div class="column small-12 medium-4">
-      
-      <h4 id="contact">Contact</h4>
-      <ul class="fa-ul">
-	
-	<li><i class="fa-li fa fa-university" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="http://www.uaf.edu.pk/EmployeeDetail.aspx?userid=281">Department of Mathematics &amp; Statistics, University of Agriculture Faisalabad, Faisalabad 38000, Pakistan.</a></li>
-	
-	<li><i class="fa-li fa fa-envelope" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="mailto:myaseen208@gmail.com">myaseen208@gmail.com</a></li>
-	
-	<li><i class="fa-li fa fa-twitter" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="https://twitter.com/myaseen208">@myaseen208</a> on Twitter</li>
-	
-	<li><i class="fa-li fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="https://github.com/myaseen208/">myaseen208</a> on GitHub</li>
-	
-	<li><i class="fa-li ai ai-google-scholar" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="https://scholar.google.com.pk/citations?user=mHkR-7cAAAAJ&amp;hl=en">Google Scholar</a></li>
-	
-      </ul>
-    </div>
-    <div class="column small-12 medium-4">
-      <h4>Subscribe</h4>
-      <p><i><i class="fa fa-rss-square" style="color:#03396c;"></i> To receive updates from this site, you can subscribe to using an <a href="http://feeds.feedburner.com/myaseen208">RSS feed reader</a> or <a href="https://feedburner.google.com/fb/a/mailverify?uri=myaseen208&amp;loc=en_US">by email</a>.</i></p>
-      <h4>Search</h4>
-      <a id="searchsite">
-	<form method="get" action="https://duckduckgo.com/">
-	  <label for="search-field" class="show-for-sr">Search the site</label>
-	  <input type="search" name="q" maxlength="255" placeholder="Search the site" id="search-field">
-	  <input type="hidden" name="sites" value="https://myaseen208.com"/>
-	  <input type="hidden" name="k7" value="#faf8f8"/>
-	  <input type="hidden" name="kj" value="#b33"/>
-	  <input type="hidden" name="ky" value="#fafafa"/>
-	  <input type="hidden" name="kx" value="b"/>
-	  <input type="hidden" name="ko" value="-1"/>
-	  <input type="hidden" name="k1" value="-1"/>
-	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-	</form>
-      </a>
-    </div>
-  </div>
-  </span>
-</footer>
-
-    <div class="endofpage">
-    <footer id="footer">
-    <section class="wrapper small">Powered by <a href="http://gohugo.io">Hugo</a>
-    and <a href="https://github.com/rstudio/blogdown">Blogdown</a>.
-     &copy; <a href="https://myaseen208.com">Muhammad Yaseen</a> 2012&ndash;2020.
-    </section>
-    </footer>
-    </div>
-
-    <script src="/js/jquery.js"></script>
-    <script src="/js/what-input.js"></script>
-    <script src="/js/foundation.min.js"></script>
-    <script src="/js/finite.js"></script>
-
-    
-    <script src="/js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-
-    
-    
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-      tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-      });
-    </script>
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
-    </script>
-    
-
-
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-5004894-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-
- </body>
-</html>
