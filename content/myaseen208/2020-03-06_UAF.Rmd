@@ -93,9 +93,7 @@ knitr::read_chunk("2020-02-06_UAF.R")
 
 &nbsp;
 
-```{r label = PopRegFn, echo = FALSE, fig.cap = "Population Regression Function", out.width = '100%', eval = TRUE}
-knitr::include_graphics("/media/myaseen208/Documents/MYaseen208/Consultancy_at_UAF/Mr._M._Yaseen/00_myaseen208_Website/MYaseen208/static/img/PopRegFn.png")
-```
+![alt text](/img/2020-03-06_UAF/PopRegFn.png)
 
 
 &nbsp;
@@ -272,9 +270,7 @@ different factor(s)
 
 &nbsp;
 
-```{r label = ANOVANormalMeans, echo = FALSE, fig.cap = "Analysis of Variance", out.width = '100%', eval = TRUE}
-knitr::include_graphics("/media/myaseen208/Documents/MYaseen208/Consultancy_at_UAF/Mr._M._Yaseen/00_myaseen208_Website/MYaseen208/static/img/ANOVANormalMeans.png")
-```
+![alt text](/img/2020-03-06_UAF/ANOVANormalMeans.png)
 
 &nbsp;
   
@@ -346,10 +342,8 @@ different factor(s)
 
 &nbsp;
 
-```{r label = ANCOVA, echo = FALSE, fig.cap = "Analysis of Covariance", out.width = '100%', eval = TRUE}
-knitr::include_graphics("/media/myaseen208/Documents/MYaseen208/Consultancy_at_UAF/Mr._M._Yaseen/00_myaseen208_Website/MYaseen208/static/img/ANCOVA.png")
-```
-  
+![alt text](/img/2020-03-06_UAF/ANCOVA.png)
+
 &nbsp;
 
 ### Example

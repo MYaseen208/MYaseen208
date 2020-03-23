@@ -93,9 +93,8 @@ knitr::read_chunk("2018-05-09_ARRI.R")
 
 &nbsp;
 
-```{r label = PopRegFn, echo = FALSE, fig.cap = "Population Regression Function", out.width = '100%'}
-knitr::include_graphics("/img/PopRegFn.png")
-```
+![alt text](/img/2019-11-25_NARC/PopRegFn.png)
+
 
 
 &nbsp;
@@ -272,9 +271,7 @@ different factor(s)
 
 &nbsp;
 
-```{r label = ANOVANormalMeans, echo = FALSE, fig.cap = "Analysis of Variance", out.width = '100%'}
-knitr::include_graphics("/img/ANOVANormalMeans.png")
-```
+![alt text](/img/2019-11-25_NARC/ANOVANormalMeans.png)
 
 &nbsp;
   
@@ -346,10 +343,8 @@ different factor(s)
 
 &nbsp;
 
-```{r label = ANCOVA, echo = FALSE, fig.cap = "Analysis of Covariance", out.width = '100%'}
-knitr::include_graphics("/img/ANCOVA.png")
-```
-  
+![alt text](/img/2019-11-25_NARC/ANCOVA.png)
+
 &nbsp;
 
 ### Example
