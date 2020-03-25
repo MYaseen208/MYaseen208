@@ -1,4 +1,4 @@
-### Build and deploy https://robjhyndman.com
+### Build and deploy https://myaseen208.netlify.com/
 
 all: serve
 
@@ -8,13 +8,7 @@ serve:
 build:
 	Rscript -e "blogdown::hugo_build()"
 
-deploy: build
-	rsync -zrvce 'ssh -p 18765' public/ robjhynd@m80.siteground.biz:public_html
-
 clean:
 	rm -rf public
 	rm -rf blogdown
-	rm -f content/hyndsight/*.html
-
-
-
+	rm -f content/myaseen208/*.html

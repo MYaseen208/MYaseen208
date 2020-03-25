@@ -59,7 +59,7 @@ knitr::read_chunk("2018-08-16-PASTIC-NTU.R")
 ## Introduction
 
 
-![alt text](/img/2018-08-16_PASTIC-NTU/2018-08-16_PASTIC-NTU.png)
+![alt text](/static/img/2018-08-16_PASTIC-NTU/2018-08-16_PASTIC-NTU.png)
 
 
 &nbsp;

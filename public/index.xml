@@ -2,130 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muhammad Yaseen</title>
-    <link>/</link>
+    <link>https://myaseen208.netlify.com/</link>
     <description>Recent content on Muhammad Yaseen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myaseen208.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2020 Coronavirus Pandemic in Pakistan</title>
+      <link>https://myaseen208.netlify.com/myaseen208/2020-pakcorona/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.netlify.com/myaseen208/2020-pakcorona/</guid>
+      <description>  2020 Coronavirus Pandemic in Pakistan Cumulative Number of Cases Number of New Cases    2020 Coronavirus Pandemic in Pakistan Cumulative Number of Cases        Number of New Cases      </description>
+    </item>
+    
+    <item>
       <title>Design &amp; Analysis of Field Experiments using R</title>
-      <link>/myaseen208/2020-03-06-uaf/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2020-03-06-uaf/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2020-03-06-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2020-03-06-uaf/</guid>
       <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example  Factorial Experiment under RCBD Stability Analysis Individual Analysis of Variance for each Location Combined Analysis of Variance Additive Main Effects and Multiplicative Interaction (AMMI) Analysis Additive Main Effects and Multiplicative Interaction (AMMI) Biplot Analysis Genotype plus Genotypes by Environment (GGE) Interaction Biplot Analysis    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
     </item>
     
     <item>
       <title>Training Course on Capacity Building of NARS Scientists in Advance Analytical Techniques</title>
-      <link>/myaseen208/2019-r-narc/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-r-narc/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-r-narc/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-r-narc/</guid>
       <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example  Factorial Experiment under RCBD Stability Analysis Individual Analysis of Variance for each Location Combined Analysis of Variance Additive Main Effects and Multiplicative Interaction (AMMI) Analysis Additive Main Effects and Multiplicative Interaction (AMMI) Biplot Analysis Genotype plus Genotypes by Environment (GGE) Interaction Biplot Analysis    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
     </item>
     
     <item>
       <title>How to wrtie a Research Paper and Hands on Training of SPSS - A Statistical Tool</title>
-      <link>/myaseen208/2019-04-18-uol/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-04-18-uol/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-04-18-uol/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-04-18-uol/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example  Boxwhisker Diagram Example  Regression Analysis Simple Linear Regression Example Exercise Exercise  Multiple Linear Regression Example  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example    Introduction  Statistics   Statistics deals with uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data       Variable   Characteristic that may vary from individual to individual     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point     Descriptive Statistics   No of observations Measures of Central Tendency Measures of Dispersion Measures of Skewness Measures of Kurtosis    Example   Fertilizer (Kg/acre) Production (Bushels/acre)    100 70  200 70  400 80  500 100        Analyze &amp;gt; Descriptive Statistics &amp;gt; Descriptives …</description>
     </item>
     
     <item>
       <title>Linear Model using Python</title>
-      <link>/myaseen208/2019-pythonlmbzu/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-pythonlmbzu/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-pythonlmbzu/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-pythonlmbzu/</guid>
       <description>Python Basics Variables and Data Types Variable Assignment Calculations With Variables Types and Type Conversion  Logical Operators Comparison If-Else Function Help  Simple Linear Regression Multiple Linear Regression Polynomial Regression Regression with Dummy Variables Example 1 Example 2 Example 3 Regression with same slopes and different intercepts Regression with different slopes and different intercepts     Python Basics Variables and Data Types Variable Assignment x = 5 x # dir(x) 5  Calculations With Variables x + 2 # Sum of two variables 7 x - 2 # Subtraction of two variables 3 x*2 # Multiplication of two variables 10 x**2 # Exponentiation of a variable 25 x%2 # Remainder of a variable 1 x/float(2) # Division of a variable 2.</description>
     </item>
     
     <item>
       <title>Improving Quality in Textile Industry using Six Sigma with R</title>
-      <link>/myaseen208/2019-sixsigmar/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-sixsigmar/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-sixsigmar/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-sixsigmar/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Factors affecting C-section deliveries in Punjab</title>
-      <link>/publications/2018_jabeen_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2018_jabeen_etal/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2018_jabeen_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2018_jabeen_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics with R</title>
-      <link>/myaseen208/2018-bioinfor/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-bioinfor/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-bioinfor/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-bioinfor/</guid>
       <description>Statistics Variable Measurement Measurement Scales Nominal Data Example Example  Ordinal Data Example  Two Way Contingency Table Example Example  Count Data Example  Continuous Data Example Example   Measures of Centeral Tendency Measures of Dispersion Measures of Skewness Measures of Skewness   Statistics   Statistics is the science of uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Data Driven Decisions (3Ds) Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data     Variable   Characteristic that may vary from individual to individual Height, Weight, CGPA etc     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive classes or categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point    Nominal Data Example  The following data shows the gender of a sample of twenty students from the University of Agriculture, Faisalabad.</description>
     </item>
     
     <item>
       <title>Regression Analysis with Python</title>
-      <link>/myaseen208/2018-regpython/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-regpython/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-regpython/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-regpython/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Regression Analysis Simple Linear Regression Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example    Introduction   In God we trust, all others must bring data. (W. Edwards Deming) In Data we trust, all others must bring data.     Statistics   Statistics is the science of uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Data Driven Decisions (3Ds) Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data     Variable   Characteristic that may vary from individual to individual Height, Weight, CGPA etc     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive classes or categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point     Regression Analysis   Quantifying dependency of a normal response on quantitative explanatory variable(s)     Figure 1: Population Regression Function    Simple Linear Regression   Quantifying dependency of a normal response on a quantitative explanatory variable    Example   Weekly Income ($) Weekly Expenditures ($)    80 70  100 65  120 90  140 95  160 110  180 115  200 120  220 140  240 155  260 150    Income = [80, 100, 120, 140, 160, 180, 200, 220, 240, 260] Expend = [70, 65, 90, 95, 110, 115, 120, 140, 155, 150] import pandas as pd df1 = pd.</description>
     </item>
     
     <item>
       <title>An Introduction to Statistics using SPSS</title>
-      <link>/myaseen208/2018-08-16-pastic-ntu/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-08-16-pastic-ntu/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-08-16-pastic-ntu/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-08-16-pastic-ntu/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example Reference  Boxwhisker Diagram Example Reference  Scatter Plot Example Reference  Regression Analysis Simple Linear Regression Example Reference  Multiple Linear Regression Example Reference  Polynomial Regression Analysis Example Reference  Analysis of Variance (ANOVA) Example Reference Example Reference  Analysis of Covariance (ANCOVA) Example Reference Same Slopes but different Intercepts Different Intercepts and different Slopes  Factorial Experiments Example Reference    Introduction alt text</description>
     </item>
     
     <item>
       <title>An Introduction to Statistics using SPSS</title>
-      <link>/seminars/2018-08-16-pastic-ntu/</link>
+      <link>https://myaseen208.netlify.com/seminars/2018-08-16-pastic-ntu/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2018-08-16-pastic-ntu/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2018-08-16-pastic-ntu/</guid>
       <description>Workshop An Introduction to Statistics using SPSS will be held on August 16-17, 2018 at National Textile University, Faisalabad, Pakistan
  All workshop material is avaiable here.</description>
     </item>
     
     <item>
       <title>Emerging Technologies in Research: Google Apps and SPSS</title>
-      <link>/myaseen208/2018-05-15-pastic-fsd/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-05-15-pastic-fsd/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-05-15-pastic-fsd/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-05-15-pastic-fsd/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example  Boxwhisker Diagram Example  Regression Analysis Simple Linear Regression Example Exercise Exercise  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Exercise  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example    Introduction alt text</description>
     </item>
     
     <item>
       <title>Emerging Technologies in Research: Google Apps and SPSS</title>
-      <link>/seminars/2018-pastic-fsd/</link>
+      <link>https://myaseen208.netlify.com/seminars/2018-pastic-fsd/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2018-pastic-fsd/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2018-pastic-fsd/</guid>
       <description>Workshop Emerging Technologies in Research: Google Apps and SPSS will be held on May 15-16, 2018 at Ayub Agriculture Research Institute, Faisalabad, Pakistan
  All workshop material is avaiable here.</description>
     </item>
     
     <item>
       <title>Spatial Analysis of Pakistan Population Census 2017</title>
-      <link>/myaseen208/2018-05-13_ppcspatial/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-05-13_ppcspatial/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-05-13_ppcspatial/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-05-13_ppcspatial/</guid>
       <description>The latest version of the ppcSpatial package for R is now on CRAN. It performs spatial analysis for exploration of Pakistan Population Census 2017 (http://www.pbscensus.gov.pk/). It uses data from R package PakPC2017.
  The Spatial map is
 and full view is here.
@@ -134,57 +143,57 @@ and full view is here.
     
     <item>
       <title>An introduction to R for Agricultural Research</title>
-      <link>/myaseen208/2018-r-aari/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-r-aari/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-r-aari/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-r-aari/</guid>
       <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
     </item>
     
     <item>
       <title>An introduction to R for Agricultural Research</title>
-      <link>/seminars/2018-r-aari/</link>
+      <link>https://myaseen208.netlify.com/seminars/2018-r-aari/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2018-r-aari/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2018-r-aari/</guid>
       <description>Workshop An introduction to R for Agricultural Research will be held on May 09-11, 2018 at Ayub Agriculture Research Institute, Faisalabad, Pakistan
  All workshop material is avaiable here.</description>
     </item>
     
     <item>
       <title>ppcSpatial: Spatial Analysis of Pakistan Population Census</title>
-      <link>/myaseen208/ppcspatialblog/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/ppcspatialblog/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/ppcspatialblog/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/ppcspatialblog/</guid>
       <description>The latest version of the ppcSpatial package for R is now on CRAN. It performs spatial analysis for exploration of Pakistan Population Census 2017 (http://www.pbscensus.gov.pk/). It uses data from R package PakPC2017.
 A video showing some functionality of the package is</description>
     </item>
     
     <item>
       <title>VetResearchLMM v1.0.0 on CRAN</title>
-      <link>/myaseen208/vetresearchlmm/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/vetresearchlmm/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/vetresearchlmm/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/vetresearchlmm/</guid>
       <description>The latest version of the VetResearchLMM package for R is now on CRAN. This package provides R Codes and Datasets for Duchateau, L. and Janssen, P. and Rowlands, G. J. (1998). Linear Mixed Models. An Introduction with applications in Veterinary Research. International Livestock Research Institute. The latest version of the package is prepare for new version of lmerTest.</description>
     </item>
     
     <item>
       <title>Diallel Analysis with R</title>
-      <link>/myaseen208/diallelanalysisr/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/diallelanalysisr/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/diallelanalysisr/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/diallelanalysisr/</guid>
       <description>The latest versin 0.1.1 of DiallelAnalysisR is aviable on CRAN. It performs Diallel Analysis with R using Griffing’s and Hayman’s approaches. Four different methods (1: Method-I (Parents + F1’s + reciprocals); 2: Method-II (Parents and one set of F1’s); 3: Method-III (One set of F1’s and reciprocals); 4: Method-IV (One set of F1’s only)) and two methods (1: Fixed Effects Model; 2: Random Effects Model) can be applied using Griffing’s approach.</description>
     </item>
     
     <item>
       <title>Help</title>
-      <link>/myaseen208/help/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/help/</link>
       <pubDate>Fri, 20 Apr 2018 22:13:31 +0000</pubDate>
       
-      <guid>/myaseen208/help/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/help/</guid>
       <description>This is not a help service for all your Statistics, R, Python and/or LaTeX questions, so please don&amp;rsquo;t post questions in the comments, or send them to me by email.
 If you have questions about Statistics and/or data analysis, ask for help on crossvalidated.com.
 If you have questions about R, ask for help on stackoverflow.com.
@@ -194,397 +203,397 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     
     <item>
       <title>About myaseen208</title>
-      <link>/myaseen208/about/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/about/</link>
       <pubDate>Fri, 20 Apr 2018 16:17:53 +0000</pubDate>
       
-      <guid>/myaseen208/about/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/about/</guid>
       <description>This is my blog site where I will put my thoughts about Statistics, R, Python, LaTeX and Research.</description>
     </item>
     
     <item>
       <title>Data Analysis with R: Introduction of R Language</title>
-      <link>/myaseen208/2018-r-maldives/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-r-maldives/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-r-maldives/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-r-maldives/</guid>
       <description>The Workspace Data types Vectors Matrices Lists Data Frames Reading/writing data from/to files (Import/Export Data) Connecting to the database Numerical or Graphical Summaries of data. Summarize Data Bar charts and Dot charts ggplot2 package  The mpg Data Frame Data Transformation Filter Rows with filter() Comparisons Logical Operators Missing Values Arrange Rows with arrange() Select Columns with select() Add New Variables with mutate() PakPC2017Tehsil Data Frame Scatter Plot dygraphs plotly datatable   The Workspace The workspace is your current R working environment and includes any user-defined objects (vectors, matrices, data frames, lists, functions).</description>
     </item>
     
     <item>
       <title>A Comparative Study of Different Amendments on Amelioration of Saline-Sodic Soils Irrigated with Water Having Different EC: SAR Ratios</title>
-      <link>/publications/2017_murtaza_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2017_murtaza_etal/</link>
       <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2017_murtaza_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2017_murtaza_etal/</guid>
       <description>Soil degradation affects soil properties such as structure, water retention, porosity, electrical conductivity (EC), sodium adsorption ratio (SAR), and soil flora and fauna. This study was conducted to evaluate the response of contrasting textured soils irrigated with water having different EC:SAR ratios along with amendments: gypsum (G), farm manure (FM), and mulch (M). Water of different qualities viz. EC 0.6 + SAR 6, EC 1.0 + SAR 12, EC 2.0 + SAR 18, and EC 4.</description>
     </item>
     
     <item>
       <title>Structural Equation Modeling with Latent Variables using R</title>
-      <link>/seminars/2017-comsats-lahore-sem/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-comsats-lahore-sem/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-comsats-lahore-sem/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-comsats-lahore-sem/</guid>
       <description>Symposium Structural Equation Modeling with Latent Variables using R during Symposium on Professional Development of New Generation of Research Scholars held on December 14, 2017 at COMSATS Institute of Information Technology, Lahore, Pakistan</description>
     </item>
     
     <item>
       <title>Applied Econometrics</title>
-      <link>/seminars/2017-nibaf-islamabad/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-nibaf-islamabad/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-nibaf-islamabad/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-nibaf-islamabad/</guid>
       <description>Workshop Applied Econometrics during Statistical Officers Training Scheme (SOTS-7) held on December 12-13, 2017 at National Institute of Banking &amp;amp; Finance (NIBAF), Islamabad, Pakistan</description>
     </item>
     
     <item>
       <title>Effects of training for in-hand manipulation on legibility of Urdu handwriting</title>
-      <link>/publications/2017_jameel_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2017_jameel_etal/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2017_jameel_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2017_jameel_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ffect of source of procurement of milk on the composition of milk supplied in Rawalpindi city</title>
-      <link>/publications/2017_ishaq_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2017_ishaq_etal/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2017_ishaq_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2017_ishaq_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Methods for Researchers using R</title>
-      <link>/seminars/2017-r2-science-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-r2-science-uaf/</link>
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-r2-science-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-r2-science-uaf/</guid>
       <description>Workshop Statistical Methods for Researchers using R held on August 10-12, 2017 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Statistical Methods for Researchers using R</title>
-      <link>/seminars/2017-r1-science-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-r1-science-uaf/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-r1-science-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-r1-science-uaf/</guid>
       <description>Workshop Statistical Methods for Researchers using R held on August 07-09, 2017 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to R &amp; Bioconductor for Computational Biology &amp; Bioinformatics</title>
-      <link>/seminars/2017-bioconductor-nibge/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-bioconductor-nibge/</link>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-bioconductor-nibge/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-bioconductor-nibge/</guid>
       <description>Workshop An Introduction to R &amp;amp; Bioconductor for Computational Biology &amp;amp; Bioinformatics during one day international workshop on Application of Computational Biology in Biotechnology held on July 31, 2017 at National Institute for Biotechnology and Genetic Engineering (NIBGE), Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to LaTeX: UAF Synopsis and Thesis</title>
-      <link>/seminars/2017-latex-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-latex-uaf/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-latex-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-latex-uaf/</guid>
       <description>Workshop An Introduction to LaTeX: UAF Synopsis and Thesis held on July 26-28, 2017 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Statistics for Veterinary and Animal Science using R</title>
-      <link>/seminars/2017-r2-vet-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-r2-vet-uaf/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-r2-vet-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-r2-vet-uaf/</guid>
       <description>Workshop Statistics for Veterinary and Animal Science using R held on July 20-22, 2017 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Statistics for Veterinary and Animal Science using R</title>
-      <link>/seminars/2017-r1-vet-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-r1-vet-uaf/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-r1-vet-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-r1-vet-uaf/</guid>
       <description>Workshop Statistics for Veterinary and Animal Science using R held on July 17-19, 2017 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Generalized Linear Mixed Modeling for Agricultural Sciences</title>
-      <link>/seminars/2017-glmm-bzu/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-glmm-bzu/</link>
       <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-glmm-bzu/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-glmm-bzu/</guid>
       <description>Workshop Generalized Linear Mixed Modeling for Agricultural Sciences held on February 25, 2017 at Bahauddin Zaria University, Multan, Pakistan</description>
     </item>
     
     <item>
       <title>Technical and Patent Writing</title>
-      <link>/seminars/2017-technical-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2017-technical-uaf/</link>
       <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2017-technical-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2017-technical-uaf/</guid>
       <description>Workshop Technical and Patent Writing held on January 28, 2017 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to LaTeX</title>
-      <link>/seminars/2016-latex-iccs14/</link>
+      <link>https://myaseen208.netlify.com/seminars/2016-latex-iccs14/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2016-latex-iccs14/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2016-latex-iccs14/</guid>
       <description>Workshop An Introduction to LaTeX held on December 13, 2016 during 14-th Islamic Countries Conference on Statistical and Allied Sciences (ICCS-14) held on December 12-15, 2016 at Multan, Pakistan**</description>
     </item>
     
     <item>
       <title>Generalized Linear Mixed Models using R</title>
-      <link>/seminars/2016-glmm-iccs14/</link>
+      <link>https://myaseen208.netlify.com/seminars/2016-glmm-iccs14/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2016-glmm-iccs14/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2016-glmm-iccs14/</guid>
       <description>Workshop Generalized Linear Mixed Models using R held on December 13, 2016 during 14-th Islamic Countries Conference on Statistical and Allied Sciences (ICCS-14) held on December 12-15, 2016 at Multan, Pakistan**</description>
     </item>
     
     <item>
       <title>Exploring the Potential of Multivariate Analysis to Study the Impact of Cotton Leaf Curl Disease on Yield Traits</title>
-      <link>/publications/2016_raza_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2016_raza_etal/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2016_raza_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2016_raza_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reclamation of wastewater containing Cu(II) using alginated Mentha spicata biomass</title>
-      <link>/publications/2016_ansari_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2016_ansari_etal/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2016_ansari_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2016_ansari_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMMI Biplot analysis for comparative evaluation of maize genotypes under different saline environments</title>
-      <link>/publications/2016_aslam_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2016_aslam_etal/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2016_aslam_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2016_aslam_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Series Analysis and Forecasting of Water Reservoir in Pakistan</title>
-      <link>/publications/2016_batool_etal/</link>
+      <link>https://myaseen208.netlify.com/publications/2016_batool_etal/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publications/2016_batool_etal/</guid>
+      <guid>https://myaseen208.netlify.com/publications/2016_batool_etal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Introduction to Econometrics with R</title>
-      <link>/seminars/2016-econr-sbp/</link>
+      <link>https://myaseen208.netlify.com/seminars/2016-econr-sbp/</link>
       <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2016-econr-sbp/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2016-econr-sbp/</guid>
       <description>Workshop An Introduction to Econometrics with R held on February 22-25, 2016 at National Institute of Banking &amp;amp; Finance (NIBAF), State Bank of Pakistan, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>Statistics: The Art and Science of Learning from Data</title>
-      <link>/seminars/2016-stat-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2016-stat-uaf/</link>
       <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2016-stat-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2016-stat-uaf/</guid>
       <description>Workshop Statistics: The Art and Science of Learning from Data held on February 6, 2016 at the University of Agriculture Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Quantitative Techniques for Decision Making</title>
-      <link>/seminars/2015-mcmc-nim/</link>
+      <link>https://myaseen208.netlify.com/seminars/2015-mcmc-nim/</link>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2015-mcmc-nim/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2015-mcmc-nim/</guid>
       <description>Workshop Quantitative Techniques for Decision Making during 20-th Mid-Career Management Course (MCMC) held on August 24-25, 2015 at National Institute of Management, Lahore, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to LaTeX</title>
-      <link>/seminars/2015-latex-sbp/</link>
+      <link>https://myaseen208.netlify.com/seminars/2015-latex-sbp/</link>
       <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2015-latex-sbp/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2015-latex-sbp/</guid>
       <description>Workshop An Introduction to LaTeX held on May 27, 2015 at National Institute of Banking &amp;amp; Finance (NIBAF), State Bank of Pakistan, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to R</title>
-      <link>/seminars/2015-r-sbp/</link>
+      <link>https://myaseen208.netlify.com/seminars/2015-r-sbp/</link>
       <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2015-r-sbp/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2015-r-sbp/</guid>
       <description>Workshop An Introduction to R held on May 25-26, 2015 at National Institute of Banking &amp;amp; Finance (NIBAF), State Bank of Pakistan, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>Structural Equation Modeling with R</title>
-      <link>/seminars/2015-sem-iqra/</link>
+      <link>https://myaseen208.netlify.com/seminars/2015-sem-iqra/</link>
       <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2015-sem-iqra/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2015-sem-iqra/</guid>
       <description>Workshop Structural Equation Modeling with R held on May 24, 2015 at Iqra University, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>Generalized Method of Moments Estimation with R</title>
-      <link>/seminars/2015-gmm-iqra/</link>
+      <link>https://myaseen208.netlify.com/seminars/2015-gmm-iqra/</link>
       <pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2015-gmm-iqra/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2015-gmm-iqra/</guid>
       <description>Workshop Generalized Method of Moments Estimation with R held on April 06, 2015 at Iqra University, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to R</title>
-      <link>/seminars/2015-r-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2015-r-uaf/</link>
       <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2015-r-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2015-r-uaf/</guid>
       <description>Workshop An Introduction to R held on March 28, 2015 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to LaTeX</title>
-      <link>/seminars/2014-latex-sbp/</link>
+      <link>https://myaseen208.netlify.com/seminars/2014-latex-sbp/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2014-latex-sbp/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2014-latex-sbp/</guid>
       <description>Workshop An Introduction to LaTeX held on August 13, 2014 at National Institute of Banking &amp;amp; Finance (NIBAF), State Bank of Pakistan, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to R</title>
-      <link>/seminars/2014-r-sbp/</link>
+      <link>https://myaseen208.netlify.com/seminars/2014-r-sbp/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2014-r-sbp/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2014-r-sbp/</guid>
       <description>Workshop An Introduction to R held on August 11-12, 2014 at National Institute of Banking &amp;amp; Finance (NIBAF), State Bank of Pakistan, Karachi, Pakistan</description>
     </item>
     
     <item>
       <title>An Introduction to R-Programming Language for Statistical Computing</title>
-      <link>/seminars/2013-r-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2013-r-uaf/</link>
       <pubDate>Fri, 24 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2013-r-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2013-r-uaf/</guid>
       <description>Workshop An Introduction to R-Programming Language for Statistical Computing held on May 24 to June 14, 2013 (16 Contact Hours) at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Statistical and Economic Analysis of Experimental Data using Statistical Software</title>
-      <link>/seminars/2012-doe-ari/</link>
+      <link>https://myaseen208.netlify.com/seminars/2012-doe-ari/</link>
       <pubDate>Mon, 17 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2012-doe-ari/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2012-doe-ari/</guid>
       <description>Workshop Statistical and Economic Analysis of Experimental Data using Statistical Software held on December 17-21, 2012 at Agricultural Research Institute (ARI), Muzaffarabad, AJK, Pakistan</description>
     </item>
     
     <item>
       <title>SPSS Training for Social Sciences</title>
-      <link>/seminars/2007-spss-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2007-spss-uaf/</link>
       <pubDate>Mon, 13 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2007-spss-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2007-spss-uaf/</guid>
       <description>Workshop SPSS Training for Social Sciences held on August 13-20, 2007 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Design and Analysis of Agricultural Research Experiments using STATISTICA/Minitab (Biological Sciences)</title>
-      <link>/seminars/2007-doe-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2007-doe-uaf/</link>
       <pubDate>Mon, 06 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2007-doe-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2007-doe-uaf/</guid>
       <description>Workshop Design and Analysis of Agricultural Research Experiments using STATISTICA/Minitab (Biological Sciences) held on August 06-11, 2007 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Statistical and Economical Analysis of Field Experiments</title>
-      <link>/seminars/2007-doe-azre/</link>
+      <link>https://myaseen208.netlify.com/seminars/2007-doe-azre/</link>
       <pubDate>Mon, 21 May 2007 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2007-doe-azre/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2007-doe-azre/</guid>
       <description>Workshop Statistical and Economical Analysis of Field Experiments held on May 21-25, 2007 at AZRE, Quetta, Balochistan, Pakistan</description>
     </item>
     
     <item>
       <title>Advanced Econometric Techniques using EViews</title>
-      <link>/seminars/2006-eviews-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2006-eviews-uaf/</link>
       <pubDate>Thu, 24 Aug 2006 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2006-eviews-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2006-eviews-uaf/</guid>
       <description>Workshop Advanced Econometric Techniques using EViews held on August 24-29, 2006 at the Department of Mathematics &amp;amp; Statistics, University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Workshop on Applied Multivariate Statistical Techniques Using Different Statistical Packages</title>
-      <link>/seminars/2006-multivariate-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2006-multivariate-uaf/</link>
       <pubDate>Mon, 05 Jun 2006 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2006-multivariate-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2006-multivariate-uaf/</guid>
       <description>Workshop Workshop on Applied Multivariate Statistical Techniques Using Different Statistical Packages held on June 05-10, 2006 at the Department of Mathematics &amp;amp; Statistics, University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>STATISTICA Training Workshop of Biological Scientists</title>
-      <link>/seminars/2005-statistica-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2005-statistica-uaf/</link>
       <pubDate>Mon, 08 Aug 2005 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2005-statistica-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2005-statistica-uaf/</guid>
       <description>Workshop STATISTICA Training Workshop of Biological Scientists held on August 08-13, 2005 at the University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>SPSS Training Workshop of Social Scientists</title>
-      <link>/seminars/2005-spss-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2005-spss-uaf/</link>
       <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2005-spss-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2005-spss-uaf/</guid>
       <description>Workshop SPSS Training Workshop of Social Scientists held on August 01-06, 2005 at the Department of Mathematics &amp;amp; Statistics, University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Advanced Biometric Techniques for Agricultural Research in Pakistan</title>
-      <link>/seminars/2005-biometric-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2005-biometric-uaf/</link>
       <pubDate>Mon, 20 Jun 2005 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2005-biometric-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2005-biometric-uaf/</guid>
       <description>Workshop Advanced Biometric Techniques for Agricultural Research in Pakistan held on June 20-25, 2005 at the Department of Mathematics &amp;amp; Statistics, University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>Training Course on Design and Analysis of Agricultural Field Experiments using STATISTICA</title>
-      <link>/seminars/2005-statistica-narc/</link>
+      <link>https://myaseen208.netlify.com/seminars/2005-statistica-narc/</link>
       <pubDate>Mon, 21 Feb 2005 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2005-statistica-narc/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2005-statistica-narc/</guid>
       <description>Workshop Training Course on Design and Analysis of Agricultural Field Experiments using STATISTICA held on Feb 21-25, 2005 at Social Sciences Institute, National Agriculture Research Center, Islamabad, Pakistan</description>
     </item>
     
     <item>
       <title>Research Methodology and Analytical Techniques</title>
-      <link>/seminars/2004-research-uaf/</link>
+      <link>https://myaseen208.netlify.com/seminars/2004-research-uaf/</link>
       <pubDate>Fri, 04 Jun 2004 00:00:00 +0000</pubDate>
       
-      <guid>/seminars/2004-research-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/seminars/2004-research-uaf/</guid>
       <description>Workshop Research Methodology and Analytical Techniques held from June 21, 2004 to July 03, 2004 at the Department of Mathematics &amp;amp; Statistics, University of Agriculture, Faisalabad, Pakistan</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>https://myaseen208.netlify.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://myaseen208.netlify.com/about/</guid>
       <description> Muhammad Yaseen, PhD (Statistics, UNL-USA), is Assistant Professor of Statistics in the Department of Mathematics &amp;amp; Statistics at University of Agriculture Faisalabad, Faisalabad 38000, Pakistan.
  Office: Department of Mathematics &amp;amp; Statistics, University of Agriculture Faisalabad, Faisalabad 38000, Pakistan.
  Administrative responsibilities  Head of Department, Department of Mathematics &amp;amp; Statistics, University of Agriculture Faisalabad , Faisalabad 38000, Pakistan.  </description>
@@ -592,20 +601,20 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     
     <item>
       <title>Software I&#39;ve written</title>
-      <link>/software/</link>
+      <link>https://myaseen208.netlify.com/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/software/</guid>
+      <guid>https://myaseen208.netlify.com/software/</guid>
       <description>R Packages/Software agriTutorial bayesammi baystability DiallelAnalysisR dmai eda4treeR gvcR PakPC2017 PakPMICS2014Ch PakPMICS2014HH PakPMICS2014HL PakPMICS2014Wm PakPMICS2018 PakPMICS2018bh PakPMICS2018fs PakPMICS2018hh PakPMICS2018mm PakPMICS2018mn ppcSpatial PSLM2015 qccrs rgsp stability StroupGLMM SupMZ VetResearchLMM  LaTeX Packages/Software UAFSynopsis UAFThesis PakJAS     This page provides links to R &amp;amp; LaTeX packages I have (co)authored. The most recent versions of most packages are on github. Most R packages are also on CRAN.
  R Packages/Software agriTutorial  agriTutorial : Tutorial Analysis of Some Agricultural Experiments [Website]</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://myaseen208.netlify.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://myaseen208.netlify.com/teaching/</guid>
       <description>Winter Semester 2018-2019 Stat-610: Experimental Design-II Stat-703: Design and Analysis of Experiments for Researchers Stat-712: Theory of Experimental Design  Summer Semester 2017-2018 Stat-703: Design and Analysis of Experiments for Researchers  Spring Semester 2017-2018 Stat-705: Advanced Design of Experiments Stat-703: Design and Analysis of Experiments for Researchers Stat-609: Experimental Design-I     Winter Semester 2018-2019 Stat-610: Experimental Design-II   pdf Syllabus  Learning Objectives</description>
     </item>
     

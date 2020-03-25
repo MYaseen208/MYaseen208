@@ -2,119 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Muhammad Yaseen</title>
-    <link>/categories/statistics/</link>
+    <link>https://myaseen208.netlify.com/categories/statistics/</link>
     <description>Recent content in Statistics on Muhammad Yaseen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myaseen208.netlify.com/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2020 Coronavirus Pandemic in Pakistan</title>
+      <link>https://myaseen208.netlify.com/myaseen208/2020-pakcorona/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myaseen208.netlify.com/myaseen208/2020-pakcorona/</guid>
+      <description>  2020 Coronavirus Pandemic in Pakistan Cumulative Number of Cases Number of New Cases    2020 Coronavirus Pandemic in Pakistan Cumulative Number of Cases        Number of New Cases      </description>
+    </item>
+    
+    <item>
       <title>Design &amp; Analysis of Field Experiments using R</title>
-      <link>/myaseen208/2020-03-06-uaf/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2020-03-06-uaf/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2020-03-06-uaf/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2020-03-06-uaf/</guid>
       <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example  Factorial Experiment under RCBD Stability Analysis Individual Analysis of Variance for each Location Combined Analysis of Variance Additive Main Effects and Multiplicative Interaction (AMMI) Analysis Additive Main Effects and Multiplicative Interaction (AMMI) Biplot Analysis Genotype plus Genotypes by Environment (GGE) Interaction Biplot Analysis    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
     </item>
     
     <item>
       <title>Training Course on Capacity Building of NARS Scientists in Advance Analytical Techniques</title>
-      <link>/myaseen208/2019-r-narc/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-r-narc/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-r-narc/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-r-narc/</guid>
       <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example  Factorial Experiment under RCBD Stability Analysis Individual Analysis of Variance for each Location Combined Analysis of Variance Additive Main Effects and Multiplicative Interaction (AMMI) Analysis Additive Main Effects and Multiplicative Interaction (AMMI) Biplot Analysis Genotype plus Genotypes by Environment (GGE) Interaction Biplot Analysis    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
     </item>
     
     <item>
       <title>How to wrtie a Research Paper and Hands on Training of SPSS - A Statistical Tool</title>
-      <link>/myaseen208/2019-04-18-uol/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-04-18-uol/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-04-18-uol/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-04-18-uol/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example  Boxwhisker Diagram Example  Regression Analysis Simple Linear Regression Example Exercise Exercise  Multiple Linear Regression Example  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example    Introduction  Statistics   Statistics deals with uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data       Variable   Characteristic that may vary from individual to individual     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point     Descriptive Statistics   No of observations Measures of Central Tendency Measures of Dispersion Measures of Skewness Measures of Kurtosis    Example   Fertilizer (Kg/acre) Production (Bushels/acre)    100 70  200 70  400 80  500 100        Analyze &amp;gt; Descriptive Statistics &amp;gt; Descriptives …</description>
     </item>
     
     <item>
       <title>Linear Model using Python</title>
-      <link>/myaseen208/2019-pythonlmbzu/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-pythonlmbzu/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-pythonlmbzu/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-pythonlmbzu/</guid>
       <description>Python Basics Variables and Data Types Variable Assignment Calculations With Variables Types and Type Conversion  Logical Operators Comparison If-Else Function Help  Simple Linear Regression Multiple Linear Regression Polynomial Regression Regression with Dummy Variables Example 1 Example 2 Example 3 Regression with same slopes and different intercepts Regression with different slopes and different intercepts     Python Basics Variables and Data Types Variable Assignment x = 5 x # dir(x) 5  Calculations With Variables x + 2 # Sum of two variables 7 x - 2 # Subtraction of two variables 3 x*2 # Multiplication of two variables 10 x**2 # Exponentiation of a variable 25 x%2 # Remainder of a variable 1 x/float(2) # Division of a variable 2.</description>
     </item>
     
     <item>
       <title>Improving Quality in Textile Industry using Six Sigma with R</title>
-      <link>/myaseen208/2019-sixsigmar/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2019-sixsigmar/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2019-sixsigmar/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2019-sixsigmar/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Bioinformatics with R</title>
-      <link>/myaseen208/2018-bioinfor/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-bioinfor/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-bioinfor/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-bioinfor/</guid>
       <description>Statistics Variable Measurement Measurement Scales Nominal Data Example Example  Ordinal Data Example  Two Way Contingency Table Example Example  Count Data Example  Continuous Data Example Example   Measures of Centeral Tendency Measures of Dispersion Measures of Skewness Measures of Skewness   Statistics   Statistics is the science of uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Data Driven Decisions (3Ds) Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data     Variable   Characteristic that may vary from individual to individual Height, Weight, CGPA etc     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive classes or categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point    Nominal Data Example  The following data shows the gender of a sample of twenty students from the University of Agriculture, Faisalabad.</description>
     </item>
     
     <item>
       <title>Regression Analysis with Python</title>
-      <link>/myaseen208/2018-regpython/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-regpython/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-regpython/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-regpython/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Regression Analysis Simple Linear Regression Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example    Introduction   In God we trust, all others must bring data. (W. Edwards Deming) In Data we trust, all others must bring data.     Statistics   Statistics is the science of uncertainty &amp;amp; variability Statistics turns data into information Data -&amp;gt; Information -&amp;gt; Knowledge -&amp;gt; Wisdom Data Driven Decisions (3Ds) Statistics is the interpretation of Science Statistics is the Art &amp;amp; Science of learning from data     Variable   Characteristic that may vary from individual to individual Height, Weight, CGPA etc     Measurement   Process of assigning numbers or labels to objects or states in accordance with logically accepted rules     Measurement Scales   Nominal Scale: Obersvations may be classified into mutually exclusive &amp;amp; exhaustive classes or categories Ordinal Scale: Obersvations may be ranked Interval Scale: Difference between obersvations is meaningful Ratio Scale: Ratio between obersvations is meaningful &amp;amp; true zero point     Regression Analysis   Quantifying dependency of a normal response on quantitative explanatory variable(s)     Figure 1: Population Regression Function    Simple Linear Regression   Quantifying dependency of a normal response on a quantitative explanatory variable    Example   Weekly Income ($) Weekly Expenditures ($)    80 70  100 65  120 90  140 95  160 110  180 115  200 120  220 140  240 155  260 150    Income = [80, 100, 120, 140, 160, 180, 200, 220, 240, 260] Expend = [70, 65, 90, 95, 110, 115, 120, 140, 155, 150] import pandas as pd df1 = pd.</description>
     </item>
     
     <item>
       <title>An Introduction to Statistics using SPSS</title>
-      <link>/myaseen208/2018-08-16-pastic-ntu/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-08-16-pastic-ntu/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-08-16-pastic-ntu/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-08-16-pastic-ntu/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example Reference  Boxwhisker Diagram Example Reference  Scatter Plot Example Reference  Regression Analysis Simple Linear Regression Example Reference  Multiple Linear Regression Example Reference  Polynomial Regression Analysis Example Reference  Analysis of Variance (ANOVA) Example Reference Example Reference  Analysis of Covariance (ANCOVA) Example Reference Same Slopes but different Intercepts Different Intercepts and different Slopes  Factorial Experiments Example Reference    Introduction alt text</description>
     </item>
     
     <item>
       <title>Emerging Technologies in Research: Google Apps and SPSS</title>
-      <link>/myaseen208/2018-05-15-pastic-fsd/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-05-15-pastic-fsd/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-05-15-pastic-fsd/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-05-15-pastic-fsd/</guid>
       <description>Introduction Statistics Variable Measurement Measurement Scales Descriptive Statistics Example  Boxwhisker Diagram Example  Regression Analysis Simple Linear Regression Example Exercise Exercise  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Exercise  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example    Introduction alt text</description>
     </item>
     
     <item>
       <title>An introduction to R for Agricultural Research</title>
-      <link>/myaseen208/2018-r-aari/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-r-aari/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-r-aari/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-r-aari/</guid>
       <description>Introduction Regression Analysis Simple Linear Regression Example Example Example  Multiple Linear Regression Example  Polynomial Regression Analysis Example  Analysis of Variance (ANOVA) Example Example  Analysis of Covariance (ANCOVA) Example Same intercepts but different slopes Different intercepts and different slopes  Correlation Analysis Simple Correlation Analysis Example  Partial Correlation Analysis Example  Multiple Correlation Analysis Example  Completely Randomized Design (CRD) Example  Randomized Complete Block Design (RCBD) Example  Latin Square Design Example    Introduction  R is a free, open-source programming language and software environment for statistical computing, bioinformatics, visualization and general computing.</description>
     </item>
     
     <item>
       <title>VetResearchLMM v1.0.0 on CRAN</title>
-      <link>/myaseen208/vetresearchlmm/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/vetresearchlmm/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/vetresearchlmm/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/vetresearchlmm/</guid>
       <description>The latest version of the VetResearchLMM package for R is now on CRAN. This package provides R Codes and Datasets for Duchateau, L. and Janssen, P. and Rowlands, G. J. (1998). Linear Mixed Models. An Introduction with applications in Veterinary Research. International Livestock Research Institute. The latest version of the package is prepare for new version of lmerTest.</description>
     </item>
     
     <item>
       <title>Help</title>
-      <link>/myaseen208/help/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/help/</link>
       <pubDate>Fri, 20 Apr 2018 22:13:31 +0000</pubDate>
       
-      <guid>/myaseen208/help/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/help/</guid>
       <description>This is not a help service for all your Statistics, R, Python and/or LaTeX questions, so please don&amp;rsquo;t post questions in the comments, or send them to me by email.
 If you have questions about Statistics and/or data analysis, ask for help on crossvalidated.com.
 If you have questions about R, ask for help on stackoverflow.com.
@@ -124,19 +133,19 @@ If you have questions about LaTeX, ask for help on stackoverflow.</description>
     
     <item>
       <title>About myaseen208</title>
-      <link>/myaseen208/about/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/about/</link>
       <pubDate>Fri, 20 Apr 2018 16:17:53 +0000</pubDate>
       
-      <guid>/myaseen208/about/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/about/</guid>
       <description>This is my blog site where I will put my thoughts about Statistics, R, Python, LaTeX and Research.</description>
     </item>
     
     <item>
       <title>Data Analysis with R: Introduction of R Language</title>
-      <link>/myaseen208/2018-r-maldives/</link>
+      <link>https://myaseen208.netlify.com/myaseen208/2018-r-maldives/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/myaseen208/2018-r-maldives/</guid>
+      <guid>https://myaseen208.netlify.com/myaseen208/2018-r-maldives/</guid>
       <description>The Workspace Data types Vectors Matrices Lists Data Frames Reading/writing data from/to files (Import/Export Data) Connecting to the database Numerical or Graphical Summaries of data. Summarize Data Bar charts and Dot charts ggplot2 package  The mpg Data Frame Data Transformation Filter Rows with filter() Comparisons Logical Operators Missing Values Arrange Rows with arrange() Select Columns with select() Add New Variables with mutate() PakPC2017Tehsil Data Frame Scatter Plot dygraphs plotly datatable   The Workspace The workspace is your current R working environment and includes any user-defined objects (vectors, matrices, data frames, lists, functions).</description>
     </item>
     
